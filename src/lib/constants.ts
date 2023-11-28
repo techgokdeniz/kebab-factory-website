@@ -34,16 +34,15 @@ const MeetItems = [
 ];
 
 const ProducstList = [
-  "Şiş Kebap",
-  "Tavuk Göğsü",
-  "Tavuk Budu",
-  "Tavuk Kanadı",
-  "Adana Kebap",
+  "Dana Köfte",
   "Kuzu Köfte",
+  "Karışık Köfte",
+  "Kasap Köfte",
   "Kaşarlı Kuzu Köfte",
-  "Kuzu Pirzola",
-  "Kuzu Çöp Şiş",
-  "Kaburga Gözü",
+  "İnegöl Köfte",
+  "Satır Köfte",
+  "Et Döner",
+  "Hamburger Köftesi",
 ];
 
 const ContactInfo = {
