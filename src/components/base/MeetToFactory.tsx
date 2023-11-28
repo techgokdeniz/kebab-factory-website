@@ -10,7 +10,7 @@ const MeetToFactory = (props: Props) => {
   return (
     <MaxWidthWrapper
       id="hakkimizda"
-      className="py-10 md:pt-20 w-full h-full flex items-center justify-center flex-col"
+      className="py-10 md:pt-36 w-full h-full flex items-center justify-center flex-col"
     >
       <div className="flex flex-col mb-32 ">
         <div className="flex flex-col gap-6 items-center justify-center text-center mb-32">

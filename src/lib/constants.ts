@@ -5,15 +5,15 @@ import LambIcon from "@/images/LambIcon";
 
 const MenuLinks: { path: string; name: string }[] = [
   {
-    path: "#hakkimizda",
+    path: "?#hakkimizda",
     name: "Hakkımızda",
   },
   {
-    path: "#products",
+    path: "?#products",
     name: "Ürünler",
   },
   {
-    path: "#contacts",
+    path: "?#contacts",
     name: "İletişim",
   },
 ];

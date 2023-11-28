@@ -10,7 +10,7 @@ const ProductsLanding = (props: Props) => {
   return (
     <div
       id="products"
-      className="w-full h-full flex items-center justify-center py-12 lg:py-0  flex-col text-white bg-theme-red min-h-[720px]"
+      className="w-full h-full flex items-center justify-center py-12 lg:py-48   flex-col text-white bg-theme-red min-h-[720px]"
     >
       <div className="grid grid-cols-1 lg:grid-cols-2 lg:px-0 gap-8">
         <MaxWidthWrapper className="flex flex-col gap-8 md:px-24 ">

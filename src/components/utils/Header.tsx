@@ -21,12 +21,14 @@ const Header = (props: Props) => {
         <nav className="flex-1 bg-theme-gray">
           <div className="flex items-center justify-between h-full px-8">
             <div className="w-full h-full max-w-sm max-h-14">
-              <Image
-                width={300}
-                height={300}
-                src="/assets/logo.png"
-                alt="kebab-factory-logo"
-              />
+              <Link href="/">
+                <Image
+                  width={300}
+                  height={300}
+                  src="/assets/logo.png"
+                  alt="kebab-factory-logo"
+                />
+              </Link>
             </div>
             <Menu
               color="white"
