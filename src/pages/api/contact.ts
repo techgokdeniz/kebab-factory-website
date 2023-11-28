@@ -30,7 +30,7 @@ export default async function handler(
       from: "info@kebabfactory.com.tr", // Gönderen e-posta adresi
       to: "info@kebabfactory.com.tr", // Alıcı e-posta adresi
       subject: "İletişim Formu",
-      text: `Ad: ${name}\nE-posta: ${mail}\nMesaj: ${message}`,
+      text: `Ad: ${name}\nE-posta: ${mail}\nTelefon: ${phone}\nMesaj: ${message}`,
     };
 
     try {
