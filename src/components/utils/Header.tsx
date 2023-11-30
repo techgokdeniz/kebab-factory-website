@@ -24,8 +24,8 @@ const Header = (props: Props) => {
               <Link href="/">
                 <Image
                   width={300}
-                  height={300}
-                  src="/assets/logo.png"
+                  height={50}
+                  src="/assets/logo.svg"
                   alt="kebab-factory-logo"
                 />
               </Link>
