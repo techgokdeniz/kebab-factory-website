@@ -20,10 +20,6 @@ const MenuLinks: { path: string; name: string }[] = [
 
 const MeetItems = [
   {
-    icon: ChickenIco,
-    text: "+5000 Kg Tavuk",
-  },
-  {
     icon: LambIcon,
     text: "+3600 Kg Kuzu",
   },
